@@ -13,6 +13,7 @@
 </div>
 
   ##
+</div>
 
  ![Snake animation](https://github.com/asami-dev/asami.dev/blob/output/github-contribution-grid-snake.svg)
 
