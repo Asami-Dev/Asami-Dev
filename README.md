@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Olá, eu sou a Sâmia Souza 👋
+## 👩🏻‍💻 Olá, eu sou Asami Dev 👋
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
