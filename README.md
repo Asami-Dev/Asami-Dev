@@ -1,6 +1,10 @@
-## Olá, eu sou a Sâmia Souza 👋
+## 👩🏻‍💻 Olá, eu sou a Sâmia Souza 👋
 
-- 🔭 Estou atualmente cursando ADS 
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
+
+Me chamo Sâmia Souza, sou natural de Fortaleza Ceará. Concluí o ensino médio no Colégio Evolutivo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniAteneu. Sou apaixonada por tecnologia e busco aprimorar meus conhecimento através de cursos e projetos.
+
+- 🔭 Cursando ADS 
 - 🌱 Estudando a linguagem C
 
 <div>
