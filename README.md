@@ -17,6 +17,11 @@ Me chamo Sâmia Souza, sou natural de Fortaleza Ceará. Concluí o ensino médio
 </div>
 
   ##
+
+  <div> 
+  <a href="https://www.linkedin.com/in/sâmia-souza-b48508337" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
